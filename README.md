@@ -1,4 +1,4 @@
-# [sforsberg](@sforsberg)
+# [sforsberg](/sforsberg)
 
 ## Links
 
