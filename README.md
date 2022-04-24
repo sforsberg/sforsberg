@@ -1,4 +1,4 @@
-# [sforsberg](/sforsberg)
+# [sforsberg](https://github.com/sforsberg)
 
 ## Links
 
